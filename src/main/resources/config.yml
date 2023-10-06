@@ -1,0 +1,33 @@
+Options:
+  update-ticks: 20
+  health-name: true
+  health-tab: true
+
+Worlds:
+  world:
+    title: '$5$lᴇɴᴅ$f$lᴄʀᴀғᴛ'
+    lines:
+      - ''
+      - '$7$l ʀᴀɴᴋ: $5'
+      - '$7$lᴄᴏɪɴs : $f'
+      - '$7$lᴏɴʟɪɴᴇ: $f%server_online%'
+      - ''
+      - '$5$lᴀɴᴜʙɪssᴠᴋ.ᴏɴʟɪɴᴇ'
+  world_nether:
+    title: '$5$lᴇɴᴅ$f$lᴄʀᴀғᴛ'
+    lines:
+      - ''
+      - '$7$l ʀᴀɴᴋ: $5'
+      - '$7$lᴄᴏɪɴs : $f'
+      - '$7$lᴏɴʟɪɴᴇ: $f%server_online%'
+      - ''
+      - '$5$lᴀɴᴜʙɪssᴠᴋ.ᴏɴʟɪɴᴇ'
+  world_the_end:
+    title: '$5$lᴇɴᴅ$f$lᴄʀᴀғᴛ'
+    lines:
+      - ''
+      - '$7$l ʀᴀɴᴋ: $5'
+      - '$7$lᴄᴏɪɴs : $f'
+      - '$7$lᴏɴʟɪɴᴇ: $f%server_online%'
+      - ''
+      - '$5$lᴀɴᴜʙɪssᴠᴋ.ᴏɴʟɪɴᴇ'

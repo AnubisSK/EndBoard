@@ -1,0 +1,11 @@
+name: EndBoard
+version: '1.0'
+main: online.anubissvk.endboard.EndBoard
+api-version: '1.20'
+author: AnubisSVK
+description: Jednoduchý plugin na pridávanie výsledkových tabuliek na server.
+website: https://anubissvk.online/
+depend: [PlaceholderAPI]
+commands:
+  endboard:
+    permission: endboard.admin

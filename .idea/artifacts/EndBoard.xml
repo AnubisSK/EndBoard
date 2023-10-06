@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EndBoard">
+    <output-path>$PROJECT_DIR$/out/artifacts/EndBoard</output-path>
+    <root id="archive" name="EndBoard.jar">
+      <element id="module-output" name="EndBoard" />
+    </root>
+  </artifact>
+</component>
