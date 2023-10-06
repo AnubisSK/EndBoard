@@ -14,4 +14,4 @@ a ešte musíte vložiť plugin placeholderapi.
 Place EndBoard.jar in the plugins folder
 and you still need to insert the placeholderapi plugin.
 
-#Screenshot
+# Screenshot
