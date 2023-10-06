@@ -5,29 +5,29 @@ Options:
 
 Worlds:
   world:
-    title: '$5$lᴇɴᴅ$f$lᴄʀᴀғᴛ'
+    title: '§5§lEND§f§lCRAFT'
     lines:
       - ''
-      - '$7$l ʀᴀɴᴋ: $5'
-      - '$7$lᴄᴏɪɴs : $f'
-      - '$7$lᴏɴʟɪɴᴇ: $f%server_online%'
+      - '➢ §7§lRANK: §5'
+      - '➢ §7§lCOINS : §f'
+      - '➢ §7§lONLINE: §f%server_online%'
       - ''
-      - '$5$lᴀɴᴜʙɪssᴠᴋ.ᴏɴʟɪɴᴇ'
+      - '§5§lmc.anubissvk.online'
   world_nether:
-    title: '$5$lᴇɴᴅ$f$lᴄʀᴀғᴛ'
+    title: '§5§lEND§f§lCRAFT'
     lines:
       - ''
-      - '$7$l ʀᴀɴᴋ: $5'
-      - '$7$lᴄᴏɪɴs : $f'
-      - '$7$lᴏɴʟɪɴᴇ: $f%server_online%'
+      - '➢ §7§lRANK: §5'
+      - '➢ §7§lCOINS : §f'
+      - '➢ §7§lONLINE: §f%server_online%'
       - ''
-      - '$5$lᴀɴᴜʙɪssᴠᴋ.ᴏɴʟɪɴᴇ'
+      - '§5§lmc.anubissvk.online'
   world_the_end:
-    title: '$5$lᴇɴᴅ$f$lᴄʀᴀғᴛ'
+    title: '§5§lEND§f§lCRAFT'
     lines:
       - ''
-      - '$7$l ʀᴀɴᴋ: $5'
-      - '$7$lᴄᴏɪɴs : $f'
-      - '$7$lᴏɴʟɪɴᴇ: $f%server_online%'
+      - '➢ §7§lRANK: §5'
+      - '➢ §7§lCOINS : §f'
+      - '➢ §7§lONLINE: §f%server_online%'
       - ''
-      - '$5$lᴀɴᴜʙɪssᴠᴋ.ᴏɴʟɪɴᴇ'
+      - '§5§lmc.anubissvk.online'
