@@ -15,3 +15,4 @@ Place EndBoard.jar in the plugins folder
 and you still need to insert the placeholderapi plugin.
 
 # Screenshot
+![Scoreboard](https://raw.github.com/AnubisSK/EndBoard/master/Screenshots/EndBoard.png)
